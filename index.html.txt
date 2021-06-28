@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Formation DevOps</title>
+  </head>
+  <body>
+    <h1>Plan</h1>
+    <p>Introduction à DevOps</p>
+    <p>Outil VCS : git et github</p>
+    p><a href="./intro.html">Introduction à DevOps</a></p>
+
+    <p>CI/CD avec github actions</p>
+  </body>
+</html>
+ 
+
